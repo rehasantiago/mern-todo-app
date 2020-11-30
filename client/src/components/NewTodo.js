@@ -189,7 +189,7 @@ class NewTodo extends Component {
                             <br />
                             <br />
                             <TextField
-                                id="date"
+                                id="target_date"
                                 label="Target date"
                                 type="date"
                                 defaultValue="2020-11-30"
